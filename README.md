@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chorr/chorr/blob/master/devcard.svg" width="300" alt="Jeon's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chorr/chorr/blob/main/devcard.svg" width="300" alt="Jeon's Dev Card"/></a>
 
 <!--
 **chorr/chorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
